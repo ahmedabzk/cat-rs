@@ -46,7 +46,7 @@ To add a bit of new text to an existing text file, you use the cat command to do
 
 ## Features
 
-- [ ] Concatination of files (file1.txt, file2.txt, etc.)
+- [ ] Concatenation of files (file1.txt, file2.txt, etc.)
 - [ ] Adding a new text from to a file from the terminal
 - [ ] Printing the contents of a file to a terminal
-- [ ] Concatinating contents in alphabetical order.
+- [ ] Concatenating contents in alphabetical order.
