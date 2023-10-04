@@ -7,7 +7,7 @@ mod read_to_terminal;
 fn main() -> Result<(), error::CatError> {
     let args = arguments::cm_line_arguments();
     if args.contains(&">".to_string()) {
-        concat::concatinate_files()
+        concat::concatenate_files()
     } else if args.contains(&">>".to_string()) {
         add_text::add_text_to_file()
     } else {
